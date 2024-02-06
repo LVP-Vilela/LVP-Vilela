@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Java Developer;<br>- Back-end<br>- ADS Superior student;<br>- Computer Technician<br>- 5-6 Years studying<br>- 2-3 Years Working
+- Java Developer;<br>- Back-end;<br>- ADS Superior student;<br>- Computer Technician;<br>- 5-6 Years studying;<br>- 2-3 Years Working;
 
 
 ## 🌐 Socials:
